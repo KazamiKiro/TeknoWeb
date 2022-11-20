@@ -1,0 +1,1 @@
+<?php /**PATH C:\Laravel\app_name\resources\views/frontpage/calendar.blade.php ENDPATH**/ ?>
